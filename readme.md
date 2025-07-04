@@ -30,6 +30,7 @@
 - [Material React Table](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript.
 
 - [Data Table Filters](https://github.com/openstatusHQ/data-table-filters) - A playground for exploring TanStack Table with various filter options and customizations.
+- [TanStack Table Adapter](https://github.com/TechFusionMasters/tanstack-table-adapter) - TanStack TableAdapter is a reusable, opinionated helper/wrapper for TanStack Table (React Table).
 
 
 ### Tanstack Virtual
